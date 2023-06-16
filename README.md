@@ -7,7 +7,7 @@ Você foi contratado para construir um sistema para um estacionamento, que será
 # Proposta
 Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo: Diagrama de classe de estacionamento
 
-A classe contém três variáveis, sendo:
+# A classe contém três variáveis, sendo:
 
 precoInicial : Tipo decimal. É o preço cobrado para deixar seu veículo estacionado.
 
@@ -15,7 +15,7 @@ precoPorHora : Tipo decimal. É o preço por hora que o veículo permanece estac
 
 veículos : É uma lista de string, representando uma coleção de veículos estacionados. Contém apenas uma placa do veículo.
 
-A classe contém três métodos, sendo:
+# A classe contém três métodos, sendo:
 
 AddVeiculo : Método responsável por receber uma placa digitada pelo usuário e salvar na variável veículos .
 
